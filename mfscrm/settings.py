@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'crm',
     'crispy_forms',
     'mathfilters',
-    'django.contrib.humanize'
+    'rest_framework'
 
 ]
 
